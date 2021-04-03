@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyb3r-N1nja
 - 👀 I’m interested in Electronics
-- 🌱 I’m currently an Electronics Apprentice
+- 🌱 I’m currently working as an Electronics Apprentice
 
 
 <!---
